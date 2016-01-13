@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Label Prefix</Title>
+      <Author>David Joyce</Author>
+      <Description></Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>prefix</ID>
+          <ToolTip></ToolTip>
+          <Default>http://</Default>
+        </Literal>
+        <Literal>
+          <ID>placeholder</ID>
+          <ToolTip></ToolTip>
+          <Default>Enter your URL...</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="row collapse">
+            <div class="small-3 large-2 columns">
+                <span class="prefix">$prefix$</span>
+            </div>
+            <div class="small-9 large-10 columns">
+                <input type="text" placeholder="$placeholder$">
+            </div>
+        </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

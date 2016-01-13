@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Icon Bar</Title>
+      <Author>David Joyce</Author>
+      <Description>An Icon Bar provides a menu to quickly navigate an app. Use the Icon Bar horizontally or vertically, with the labels below the icons or to the right.</Description>
+      <Shortcut>f5-iconbar</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>image1</ID>
+          <ToolTip></ToolTip>
+          <Default>../assets/img/images/fi-home.svg</Default>
+        </Literal>
+        <Literal>
+          <ID>button1</ID>
+          <ToolTip></ToolTip>
+          <Default>Home</Default>
+        </Literal>
+        <Literal>
+          <ID>image2</ID>
+          <ToolTip></ToolTip>
+          <Default>../assets/img/images/fi-bookmark.svg</Default>
+        </Literal>
+        <Literal>
+          <ID>button2</ID>
+          <ToolTip></ToolTip>
+          <Default>Bookmark</Default>
+        </Literal>
+        <Literal>
+          <ID>image3</ID>
+          <ToolTip></ToolTip>
+          <Default>../assets/img/images/fi-info.svg</Default>
+        </Literal>
+        <Literal>
+          <ID>button3</ID>
+          <ToolTip></ToolTip>
+          <Default>Info</Default>
+        </Literal>
+        <Literal>
+          <ID>image4</ID>
+          <ToolTip></ToolTip>
+          <Default>../assets/img/images/fi-mail.svg</Default>
+        </Literal>
+        <Literal>
+          <ID>button4</ID>
+          <ToolTip></ToolTip>
+          <Default>Mail</Default>
+        </Literal>
+        <Literal>
+          <ID>image5</ID>
+          <ToolTip></ToolTip>
+          <Default>../assets/img/images/fi-like.svg</Default>
+        </Literal>
+        <Literal>
+          <ID>button5</ID>
+          <ToolTip></ToolTip>
+          <Default>Like</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="icon-bar five-up">
+  <a class="item">
+    <img src="$image1$" >
+    <label>$button1$</label>
+  </a>
+  <a class="item">
+    <img src="$image2$" >
+    <label>$button2$</label>
+  </a>
+  <a class="item">
+    <img src="$image3$" >
+    <label>$button3$</label>
+  </a>
+  <a class="item">
+    <img src="$image4$" >
+    <label>$button4$</label>
+  </a>
+  <a class="item">
+    <img src="$image5$" >
+    <label>$button5$</label>
+  </a>
+</div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

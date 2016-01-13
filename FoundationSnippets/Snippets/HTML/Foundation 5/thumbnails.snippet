@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Thumbnail</Title>
+      <Author>David Joyce</Author>
+      <Description>If you're going to use an image as an anchor, we've got you covered. All you gotta do is wrap an a.th around your image and voilà!</Description>
+      <Shortcut>f5-thumbnail</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>image</ID>
+          <ToolTip></ToolTip>
+          <Default>../img/demos/demo2-th.png</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<a class="th" href="$image$">
+            <img src="$image$">
+        </a>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Off Canvas Advanced</Title>
+      <Author>David Joyce</Author>
+      <Description>Off-canvas menus are positioned outside of the viewport and slide in when activated. Setting up an off-canvas layout in Foundation is super easy.</Description>
+      <Shortcut>f5-off-canvas-advanced</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>Foundation</ID>
+          <ToolTip>Menu Bar Title</ToolTip>
+          <Default>Foundation</Default>
+        </Literal>
+        <Literal>
+          <ID>Item1</ID>
+          <ToolTip></ToolTip>
+          <Default>Item 1</Default>
+        </Literal>
+        <Literal>
+          <ID>Item2</ID>
+          <ToolTip></ToolTip>
+          <Default>Item 2</Default>
+        </Literal>
+        <Literal>
+          <ID>Users</ID>
+          <ToolTip></ToolTip>
+          <Default>Users</Default>
+        </Literal>
+        <Literal>
+          <ID>User1</ID>
+          <ToolTip></ToolTip>
+          <Default>User One</Default>
+        </Literal>
+        <Literal>
+          <ID>User2</ID>
+          <ToolTip></ToolTip>
+          <Default>User Two</Default>
+        </Literal>
+        <Literal>
+          <ID>MainContent</ID>
+          <ToolTip></ToolTip>
+          <Default>Main Content</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap">
+    <nav class="tab-bar">
+      <section class="left-small">
+        <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+      </section>
+
+      <section class="middle tab-bar-section">
+        <h1 class="title">$Foundation$</h1>
+      </section>
+
+      <section class="right-small">
+        <a class="right-off-canvas-toggle menu-icon" href="#"><span></span></a>
+      </section>
+    </nav>
+
+    <aside class="left-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>$Foundation$</label></li>
+        <li><a href="#">$Item1$</a></li>
+        <li><a href="#">>$Item2$</a></li>
+      </ul>
+    </aside>
+
+    <aside class="right-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>$Users$</label></li>
+        <li><a href="#">$User1$</a></li>
+        <li><a href="#">$User2$</a></li>
+      </ul>
+    </aside>
+
+    <section class="main-section">
+      $MainContent$
+    </section>
+
+  <a class="exit-off-canvas"></a>
+
+  </div>
+</div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

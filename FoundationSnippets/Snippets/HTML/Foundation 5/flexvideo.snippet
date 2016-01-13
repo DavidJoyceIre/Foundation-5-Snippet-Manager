@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Flex Video</Title>
+      <Author>David Joyce</Author>
+      <Description>Flex Video lets browsers automatically scale video objects in your webpages.</Description>
+      <Shortcut>f5-flex</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>src</ID>
+          <ToolTip></ToolTip>
+          <Default>//www.youtube.com/embed/aiBt44rrslw</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="flex-video">
+            <iframe width="420" height="315" src="$src$" frameborder="0" allowfullscreen></iframe>
+        </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

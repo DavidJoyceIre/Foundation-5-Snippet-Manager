@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Off Canvas Basic</Title>
+      <Author>David Joyce</Author>
+      <Description>Off-canvas menus are positioned outside of the viewport and slide in when activated. Setting up an off-canvas layout in Foundation is super easy.</Description>
+      <Shortcut>f5-off-canvas-basic</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>Menu</ID>
+          <ToolTip>The name to give the Menu Button</ToolTip>
+          <Default>Menu</Default>
+        </Literal>
+        <Literal>
+          <ID>Item1</ID>
+          <ToolTip></ToolTip>
+          <Default>Item 1</Default>
+        </Literal>
+        <Literal>
+          <ID>MainContent</ID>
+          <ToolTip></ToolTip>
+          <Default>Main Content</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap">
+
+    <a class="left-off-canvas-toggle" href="#" >$Menu$</a>
+
+    <!-- Off Canvas Menu -->
+    <aside class="left-off-canvas-menu">
+        <!-- whatever you want goes here -->
+        <ul>
+          <li><a href="#">$Item1$</a></li>
+        ...
+        </ul>
+    </aside>
+
+    <!-- main content goes here -->
+    <p>$MainContent$</p>
+
+  <!-- close the off-canvas menu -->
+  <a class="exit-off-canvas"></a>
+
+  </div>
+</div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

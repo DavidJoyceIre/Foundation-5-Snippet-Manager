@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Side Bar</Title>
+      <Author>David Joyce</Author>
+      <Description>Side nav, like you see on the Foundation docs, is a great way to provide navigation for your entire site, or for sections of an individual page.</Description>
+      <Shortcut>f5-sidebar</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>$title$</ID>
+          <ToolTip></ToolTip>
+          <Default>Link List</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<ul class="side-nav" role="navigation" title="$title$">
+  <li role="menuitem" class="active"><a href="#">Link 1</a></li>
+  <li role="menuitem"><a href="#">Link 2</a></li>
+  <li class="divider"></li>
+  <li role="menuitem"><a href="#">Link 3</a></li>
+  <li role="menuitem"><a href="#">Link 4</a></li>
+</ul>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

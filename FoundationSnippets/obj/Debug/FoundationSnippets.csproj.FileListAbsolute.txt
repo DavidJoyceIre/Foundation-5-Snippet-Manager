@@ -1,0 +1,29 @@
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\bin\Debug\LICENSE.txt
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\bin\Debug\logo.png
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\bin\Debug\preview.png
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\bin\Debug\snippets.pkgdef
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\bin\Debug\FoundationSnippets.vsix
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\bin\Debug\extension.vsixmanifest
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\obj\Debug\FoundationSnippets.csprojResolveAssemblyReference.cache
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\obj\Debug\FoundationSnippets.dll
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\obj\Debug\FoundationSnippets.pdb
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\BootstrapSnippets\obj\Debug\extension.vsixmanifest
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\LICENSE.txt
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\logo.png
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\preview.png
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\snippets.pkgdef
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\FoundationSnippets.vsix
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\extension.vsixmanifest
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.csprojResolveAssemblyReference.cache
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.dll
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.pdb
+G:\Visual Studio Code\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\extension.vsixmanifest
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\LICENSE.txt
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\logo.png
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\snippets.pkgdef
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.csprojResolveAssemblyReference.cache
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.dll
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.pdb
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\FoundationSnippets.vsix
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\extension.vsixmanifest
+C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\extension.vsixmanifest

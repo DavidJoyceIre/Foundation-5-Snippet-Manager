@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Label Postfix</Title>
+      <Author>David Joyce</Author>
+      <Description></Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>placeholder</ID>
+          <ToolTip></ToolTip>
+          <Default>Hex Value</Default>
+        </Literal>
+        <Literal>
+          <ID>postfix</ID>
+          <ToolTip></ToolTip>
+          <Default>Go</Default>
+        </Literal>        
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="row collapse">
+            <div class="small-10 columns">
+                <input type="text" placeholder="$placeholder$">
+            </div>
+            <div class="small-2 columns">
+                <a href="#" class="button postfix">$postfix$</a>
+            </div>
+        </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

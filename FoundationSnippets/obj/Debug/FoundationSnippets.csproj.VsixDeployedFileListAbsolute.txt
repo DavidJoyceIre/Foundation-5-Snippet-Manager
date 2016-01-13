@@ -1,0 +1,225 @@
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\\extension.vsixmanifest
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\\LICENSE.txt
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\\logo.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\\preview.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\\snippets.pkgdef
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\accordion.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\accordion.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\alert.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\alert.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\badge.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\badge.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\breadcrumb.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-dropdown-split.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-dropdown.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-toolbar.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\carousel.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\collapse.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-checkbox.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-horizontal-checkbox.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-horizontal.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-inline.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-radio.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-select.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-horizontal.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-inline.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\glyphicon.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\input-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\jumbotron.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\label.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\list-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\media-list.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\media-object.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\modal-lg.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\modal-sm.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\modal.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\nav-pills.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\nav-tabs.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\navbar.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\page-header.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\pager.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\pagination.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\panel.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\popover.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\progress-bar.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\template.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\thumbnail.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\tooltip.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\_default.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\breadcrumb.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-dropdown-split.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-dropdown.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\btn-toolbar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\carousel.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\collapse.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\glyphicon.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\input-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\jumbotron.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\label.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\list-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\media-list.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\media-object.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\modal.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\nav-pills.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\nav-tabs.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\navbar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\page-header.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\pager.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\pagination.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\panel.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\popover.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\progress-bar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\template.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\thumbnail.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\tooltip.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-horizontal.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-inline.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-horizontal.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-inline.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-checkbox.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-horizontal-checkbox.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-radio.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\modal-lg.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\modal-sm.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Eric Lebetsamer\Foundation Snippet Pack\1.0.11\Snippets\HTML\Founadtion\\form-group-select.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\extension.vsixmanifest
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\LICENSE.txt
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\logo.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\preview.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\snippets.pkgdef
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\accordion.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\accordion.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\alert.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\alert.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\badge.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\badge.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\breadcrumb.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-dropdown-split.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-dropdown.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-toolbar.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\carousel.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\collapse.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-checkbox.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-horizontal-checkbox.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-horizontal.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-inline.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-radio.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-select.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-horizontal.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-inline.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\glyphicon.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\input-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\jumbotron.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\list-group.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\media-list.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\media-object.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\modal-lg.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\modal-sm.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\modal.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\nav-pills.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\nav-tabs.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\navbar.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\page-header.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\pager.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\pagination.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\panel.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\popover.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\progress-bar.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\template.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\thumbnail.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\tooltip.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\_default.png
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\breadcrumb.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-dropdown-split.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-dropdown.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-toolbar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\carousel.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\collapse.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\glyphicon.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\input-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\jumbotron.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\list-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\media-list.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\media-object.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\modal.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\nav-pills.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\nav-tabs.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\navbar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\page-header.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\pager.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\pagination.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\panel.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\popover.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\progress-bar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\template.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\thumbnail.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\tooltip.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-horizontal.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-inline.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-horizontal.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-inline.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-checkbox.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-horizontal-checkbox.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-radio.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\modal-lg.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\modal-sm.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form-group-select.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\alertbox.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\Off-Canvas.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\Off-Canvas-Advanced.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\topbarsticky.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\topbar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\topbarclickable.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\iconbarvertical.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\sidenav.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\iconbar.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\subnav.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\thumbnails.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\clearinglightbox.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\fieldset.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-errorstate.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-inline.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-prefix.snippet
+C:\Users\djoyce\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\flexvideo.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\extension.vsixmanifest
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\LICENSE.txt
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\logo.png
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\\snippets.pkgdef
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\accordion.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\alertbox.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\clearinglightbox.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\fieldset.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-errorstate.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-inline.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-prefix.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\off-canvas-advanced.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\off-canvas.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\topbarsticky.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\_default.png
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\breadcrumb.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\btn-dropdown.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\topbar.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\topbarclickable.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\iconbar.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\iconbarvertical.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\sidenav.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\subnav.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\pagination.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\thumbnails.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\flexvideo.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\form.snippet
+C:\Users\david_000\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\David Joyce\Foundation Snippet Pack\1.0.0\Snippets\HTML\Foundation 5\\label-postfix.snippet

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Clearing Lightbox</Title>
+      <Author>David Joyce</Author>
+      <Description>Since we didn't intend Orbit to handle variable-height content, we decided to create a plugin that would. Clearing makes it easy to create responsive lightboxes with any size image.</Description>
+      <Shortcut>f5-clearing</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>image1</ID>
+          <ToolTip></ToolTip>
+          <Default>path/to/your/img</Default>
+        </Literal>
+        <Literal>
+          <ID>image2</ID>
+          <ToolTip></ToolTip>
+          <Default>path/to/your/img</Default>
+        </Literal>
+        <Literal>
+          <ID>image3</ID>
+          <ToolTip></ToolTip>
+          <Default>path/to/your/img</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<ul class="clearing-thumbs" data-clearing="">
+            <li>
+                <a href="$image1$">
+                    <img src="$image1$">
+                </a>
+            </li>
+            <li>
+                <a href="$image2$">
+                    <img src="$image2$">
+                </a>
+            </li>
+            <li>
+                <a href="$image3$">
+                    <img src="$image3$">
+                </a>
+            </li>
+        </ul>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

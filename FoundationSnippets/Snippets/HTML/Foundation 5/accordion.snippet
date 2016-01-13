@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Accordion</Title>
+      <Author>David Joyce</Author>
+      <Description>Accordions are elements used to expand and collapse content that is broken into logical sections, much like tabs.</Description>
+      <Shortcut>f5-accordion</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>panel1</ID>
+          <ToolTip>The ID for the Accordion Panel Object</ToolTip>
+          <Default>panel1a</Default>
+        </Literal>
+        <Literal>
+          <ID>heading1</ID>
+          <ToolTip>The heading for the first Accordion object</ToolTip>
+          <Default>Accordion 1</Default>
+        </Literal>
+        <Literal>
+          <ID>content1</ID>
+          <ToolTip>The content for the first Accordion object</ToolTip>
+          <Default>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</Default>
+        </Literal>
+        <Literal>
+          <ID>panel2</ID>
+          <ToolTip>The ID for the Accordion Panel Object</ToolTip>
+          <Default>panel2a</Default>
+        </Literal>
+        <Literal>
+          <ID>heading2</ID>
+          <ToolTip>The heading for the second Accordion object</ToolTip>
+          <Default>Accordion 2</Default>
+        </Literal>
+        <Literal>
+          <ID>content2</ID>
+          <ToolTip>The content for the second Accordion object</ToolTip>
+          <Default>Morbi eget libero quis metus consectetur semper.</Default>
+        </Literal>
+        <Literal>
+          <ID>panel3</ID>
+          <ToolTip>The ID for the Accordion Panel Object</ToolTip>
+          <Default>panel3a</Default>
+        </Literal>
+        <Literal>
+          <ID>heading3</ID>
+          <ToolTip>The heading for the third Accordion object</ToolTip>
+          <Default>Accordion 3</Default>
+        </Literal>
+        <Literal>
+          <ID>content3</ID>
+          <ToolTip>The content for the third Accordion object</ToolTip>
+          <Default>Suspendisse ullamcorper massa eget eleifend iaculis.</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<ul class="accordion" data-accordion>
+  <li class="accordion-navigation">
+    <a href="#$panel1$">$heading1$</a>
+    <div id="$panel1$" class="content active">
+      $content1$
+    </div>
+  </li>
+  <li class="accordion-navigation">
+    <a href="#$panel2$">$heading2$</a>
+    <div id="$panel2$" class="content">
+      $content2$
+    </div>
+  </li>
+  <li class="accordion-navigation">
+    <a href="#$panel3$">$heading3$</a>
+    <div id="$panel3$" class="content">
+      $content3$
+    </div>
+  </li>
+</ul>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

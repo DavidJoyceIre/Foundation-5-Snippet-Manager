@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Label ErrorState</Title>
+      <Author>David Joyce</Author>
+      <Description></Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>label</ID>
+          <ToolTip></ToolTip>
+          <Default>Error</Default>
+        </Literal>
+        <Literal>
+          <ID>errormessage</ID>
+          <ToolTip></ToolTip>
+          <Default>Invalid entry</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="large-12 columns">
+            <label class="error">
+                $label$       
+                <input type="text" class="error" />
+            </label>
+            <small class="error">$errormessage$</small>
+        </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

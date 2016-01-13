@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Label Inline</Title>
+      <Author>David Joyce</Author>
+      <Description></Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>Label</ID>
+          <ToolTip></ToolTip>
+          <Default>Label</Default>
+        </Literal>
+        <Literal>
+          <ID>placeholder</ID>
+          <ToolTip></ToolTip>
+          <Default>Inline Text Input</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="small-8 columns">
+            <div class="row">
+                <div class="small-3 columns">
+                    <label for="right-label" class="right inline">$Label$</label>
+                </div>
+                <div class="small-9 columns">
+                    <input type="text" id="right-label" placeholder="$placeholder$">
+                </div>
+            </div>
+        </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

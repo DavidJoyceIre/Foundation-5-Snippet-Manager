@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Fieldset</Title>
+      <Author>David Joyce</Author>
+      <Description></Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>legend</ID>
+          <Default>Fieldset Legend</Default>
+        </Literal>
+        <Literal>
+          <ID>Label</ID>
+          <ToolTip></ToolTip>
+          <Default>Label</Default>
+        </Literal>
+        <Literal>
+          <ID>placeholder</ID>
+          <ToolTip></ToolTip>
+          <Default>Inputs and other form elements go inside...</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<fieldset>
+            <legend>$legend$</legend>
+            <label>
+                $Label$     
+                <input type="text" placeholder="$placeholder$">
+            </label>
+        </fieldset>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
