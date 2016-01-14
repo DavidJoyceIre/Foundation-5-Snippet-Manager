@@ -27,3 +27,12 @@ C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 sn
 C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\FoundationSnippets.vsix
 C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\extension.vsixmanifest
 C:\Software Development\Work\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\extension.vsixmanifest
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\LICENSE.txt
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\logo.png
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\snippets.pkgdef
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\FoundationSnippets.vsix
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Debug\extension.vsixmanifest
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.csprojResolveAssemblyReference.cache
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.dll
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\FoundationSnippets.pdb
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Debug\extension.vsixmanifest

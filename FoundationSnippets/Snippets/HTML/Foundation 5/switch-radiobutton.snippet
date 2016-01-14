@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>RadioButton</Title>
+      <Author>David Joyce</Author>
+      <Description></Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>id1</ID>
+          <ToolTip></ToolTip>
+          <Default>exampleRadioSwitch1</Default>
+        </Literal>
+        <Literal>
+          <ID>groupname</ID>
+          <ToolTip></ToolTip>
+          <Default>testGroup</Default>
+        </Literal>
+        <Literal>
+          <ID>id2</ID>
+          <ToolTip></ToolTip>
+          <Default>exampleRadioSwitch2</Default>
+        </Literal>
+        <Literal>
+          <ID>id3</ID>
+          <ToolTip></ToolTip>
+          <Default>exampleRadioSwitch3</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<div class="switch small">
+        <input id="$id1$" type="radio" checked="" name="$groupname$">
+          <label for="$id1$"></label>
+        </div>
+      <div class="switch small">
+        <input id="$id2$" type="radio" name="$groupname$">
+          <label for="$id2$"></label>
+        </div>
+      <div class="switch small">
+        <input id="$id3$" type="radio" name="$groupname$">
+          <label for="$id3$"></label>
+        </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

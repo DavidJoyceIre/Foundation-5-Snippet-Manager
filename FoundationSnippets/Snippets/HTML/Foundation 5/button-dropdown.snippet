@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Button DropDown</Title>
+			<Author>David Joyce</Author>
+			<Description>Dropdown buttons are elements that, when tapped, reveal additional content.</Description>
+			<Shortcut>f5-btn-dropdown</Shortcut>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+      <Declarations>
+        <Literal>
+          <ID>dropdownid</ID>
+          <ToolTip>The ID for the drop down options attached to the Button</ToolTip>
+          <Default>drop1</Default>
+        </Literal>
+        <Literal>
+          <ID>btntext</ID>
+          <ToolTip>The text for the button</ToolTip>
+          <Default>Dropdown Button</Default>
+        </Literal>
+      </Declarations>
+			<Code Language="HTML">
+				<![CDATA[<button href="#" data-dropdown="$dropdownid$" aria-controls="$dropdownid$" aria-expanded="false" class="button dropdown">$btntext$</button><br>
+<ul id="$dropdownid$" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="#">This is a link</a></li>
+  <li><a href="#">This is another</a></li>
+  <li><a href="#">Yet another</a></li>
+</ul>]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Button Group</Title>
+      <Author>David Joyce</Author>
+      <Description>Button groups are containers for related action items. They're great when you need to display a group of actions in a bar. These build off the button styles and work perfectly with the grid.</Description>
+      <Shortcut>f5-btn-grp</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>btntext1</ID>
+          <ToolTip></ToolTip>
+          <Default>Button 1</Default>
+        </Literal>
+        <Literal>
+          <ID>btntext2</ID>
+          <ToolTip></ToolTip>
+          <Default>Button 2</Default>
+        </Literal>
+        <Literal>
+          <ID>btntext3</ID>
+          <ToolTip></ToolTip>
+          <Default>Button 3</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<ul class="button-group">
+        <li><a href="#" class="button">$btntext1$</a></li>
+        <li><a href="#" class="button">$btntext2$</a></li>
+        <li><a href="#" class="button">$btntext3$</a></li>
+    </ul>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
