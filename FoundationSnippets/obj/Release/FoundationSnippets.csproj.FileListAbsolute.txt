@@ -1,0 +1,10 @@
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Release\LICENSE.txt
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Release\logo.png
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Release\preview.png
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Release\snippets.pkgdef
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Release\FoundationSnippets.vsix
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\bin\Release\extension.vsixmanifest
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Release\FoundationSnippets.csprojResolveAssemblyReference.cache
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Release\FoundationSnippets.dll
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Release\FoundationSnippets.pdb
+C:\Software Development\My Projects\Foundation 5 snippets visual stuido\Foundation 5 snippets visual stuido\FoundationSnippets\obj\Release\extension.vsixmanifest

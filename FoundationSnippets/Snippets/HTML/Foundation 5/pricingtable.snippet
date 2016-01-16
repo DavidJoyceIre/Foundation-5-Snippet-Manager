@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Pricing Table</Title>
+      <Author>David Joyce</Author>
+      <Description>If you're making a rockin' marketing site for a subscription-based product, you're likely in need of a pricing table. These tables fill 100% of their container and are made from a simple unordered list.</Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>title</ID>
+          <ToolTip></ToolTip>
+          <Default>Standard</Default>
+        </Literal>
+        <Literal>
+          <ID>price</ID>
+          <ToolTip></ToolTip>
+          <Default>$99.99</Default>
+        </Literal>
+        <Literal>
+          <ID>description</ID>
+          <ToolTip></ToolTip>
+          <Default>An awesome description</Default>
+        </Literal>
+        <Literal>
+          <ID>bullet1</ID>
+          <ToolTip></ToolTip>
+          <Default>1 Database</Default>
+        </Literal>
+        <Literal>
+          <ID>bullet2</ID>
+          <ToolTip></ToolTip>
+          <Default>5GB Storage</Default>
+        </Literal>
+        <Literal>
+          <ID>bullet3</ID>
+          <ToolTip></ToolTip>
+          <Default>20 Users</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="HTML">
+        <![CDATA[<ul class="pricing-table">
+  <li class="title">$title$</li>
+  <li class="price">$price$</li>
+  <li class="description">$description$</li>
+  <li class="bullet-item">$bullet1$</li>
+  <li class="bullet-item">$bullet2$</li>
+  <li class="bullet-item">$bullet3$</li>
+  <li class="cta-button"><a class="button" href="#">Buy Now</a></li>
+</ul>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
