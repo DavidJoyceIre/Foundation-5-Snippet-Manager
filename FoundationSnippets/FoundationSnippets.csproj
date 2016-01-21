@@ -116,6 +116,7 @@
     </Content>
     <Content Include="Snippets\HTML\Foundation 5\breadcrumb.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="Snippets\HTML\Foundation 5\topbar.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
@@ -303,6 +304,14 @@
     <Content Include="Snippets\HTML\Foundation 5\tooltip.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <None Include="Snippets\HTML\Foundation 5\grid-advanced.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\grid-batsic.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\grid-block.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\grid-medium.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\grid-small.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\offset.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\row-incomplete.snippet" />
+    <None Include="Snippets\HTML\Foundation 5\row.snippet" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>

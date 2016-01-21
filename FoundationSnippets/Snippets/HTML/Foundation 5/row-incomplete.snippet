@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+	xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Offset</Title>
+      <Author>Row Incomplete</Author>
+      <Description>In order to work around browsers' different rounding behaviors, Foundation will float the last column in a row to the right so the edge aligns. If your row doesn't have a count that adds up to 12 columns, you can tag the last column with a class of end in order to override that behavior.</Description>
+      <Shortcut></Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="HTML">
+        <![CDATA[<div class="row">
+        <div class="medium-3 columns">3</div>
+        <div class="medium-3 columns">3</div>
+        <div class="medium-3 columns">3</div>
+    </div>
+    <div class="row">
+        <div class="medium-3 columns">3</div>
+        <div class="medium-3 columns">3</div>
+        <div class="medium-3 columns end">3 end</div>
+    </div>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
